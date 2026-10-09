@@ -37,6 +37,12 @@ body {
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
 }
+.sponsporship {
+  background-color: var(--primary);
+  padding: 10px;
+  border-radius: 6px;
+  color: var(--muted);
+}
 a {
   text-decoration: none;
 }
